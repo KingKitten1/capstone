@@ -1,0 +1,7 @@
+0 river fish
+1 gold fish
+2 shark
+3 spotted shark
+4 hammer head
+5 Atlantic torpedo
+6 Pacific angelshark
